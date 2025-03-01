@@ -1,6 +1,6 @@
 # Boilerplate Node.js, Express, EJS
 
-Ce projet est est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et de middleware.
+Ce projet est est destiné à être utilisé comme **template** et inclut une **configuration de base**, des exemples de **routes** et de **middlewares**.
 
 ## Comment l'utiliser
 
