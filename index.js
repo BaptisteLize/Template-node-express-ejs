@@ -13,6 +13,10 @@ app.use(express.static(path.join(import.meta.dirname, "public")));
 app.use(express.urlencoded({ extended: true }));
 
 app.use(sessionMiddleware);
+app.use((req, res, next) => {
+  res.locals.session = req.session;
+  next();
+});
 
 app.use(router);
 
