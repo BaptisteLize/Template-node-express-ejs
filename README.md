@@ -12,7 +12,7 @@ Utiliser le bouton "Use this template" et choisir "Create a new repository"
 
 ### 2. Installer les dépendances
 
-S'assurer d'avoir Node.js installé sur la machine. 
+S'assurer d'avoir Node.js installé sur la machine.
 
 Ensuite, installer les dépendances du projet avec npm : `npm install`
 
@@ -22,4 +22,4 @@ Une fois les dépendances installées, lancer le serveur :
 
 **Tips** : Les scripts dev et start sont déjà inclus
 
-Le serveur sera accessible à l'adresse http://localhost:3000 sans modification.
+Le serveur sera accessible à l'adresse [http://localhost:3000] sans modification.
