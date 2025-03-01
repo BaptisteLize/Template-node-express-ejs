@@ -8,7 +8,7 @@ Ce projet est est destiné à être utilisé comme **template** et inclut une co
 
 Utiliser le bouton "Use this template" et choisir "Create a new repository"
 
-![image](https://github.com/user-attachments/assets/aea74d33-cb61-4965-b4de-3a5b60dbd06d)
+![image](https://github.com/user-attachments/assets/8d32e3d8-9796-4e57-845f-4047a92009c1)
 
 ### 2. Installer les dépendances
 
