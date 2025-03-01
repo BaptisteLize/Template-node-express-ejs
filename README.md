@@ -1,6 +1,6 @@
-# Boilerplate Node.js, Express, EJS et Tailwind CSS
+# Boilerplate Node.js, Express, EJS
 
-Ce projet est est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et la librairie Tailwind CSS est déjà liée.
+Ce projet est est destiné à être utilisé comme **template** et inclut une configuration de base, des exemples de routes et de middleware.
 
 ## Comment l'utiliser
 
