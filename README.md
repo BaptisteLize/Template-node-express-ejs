@@ -1,4 +1,4 @@
-# Boilerplate Node.js, Express, EJS
+# Boilerplate Node.js, Express, EJS, Sessions
 
 Ce projet est est destiné à être utilisé comme **template** et inclut une **configuration de base**, des exemples de **routes** et de **middlewares**.
 
